@@ -1,0 +1,20 @@
+.block {
+  width: 15em;
+  background-color: lightgrey;
+  float: left;
+}
+
+.article {
+  width: auto;
+  height: auto;
+  background-color: grey;
+  margin-left: 15em;
+  margin-bottom: 2em;
+}
+
+.basement {
+  background-color: lightgrey;
+  clear: both;
+  height: auto;
+  height: fit-content;
+}
