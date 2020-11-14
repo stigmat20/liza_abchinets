@@ -1,0 +1,9 @@
+div {
+  width: 80%;
+  padding: 4em;
+  background: url(l-b.png) no-repeat bottom left,
+    url(l-t.png) no-repeat top left, url(r-b.png) no-repeat bottom right,
+    url(r-t.png) no-repeat top right, url(l.png) repeat-y left,
+    url(b.png) repeat-x top, url(r.png) repeat-y right,
+    url(t.png) repeat-x bottom;
+}
